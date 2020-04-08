@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/",
+    "setupTestFrameworkScriptFile": "./test/setup.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jacob Lee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jest": "^22.1.4",
+    "migrate-mongoose": "^3.2.2",
+    "mongoose": "^4.11.1",
+    "nodemon": "^1.11.0"
+  }
+}

@@ -1,3 +1,2 @@
-#Project Management Platform 
-jacob.cb.lee@gmail.com
-npm run dev
+#Prepped Project Management Platform 
+by jacob.cb.lee@gmail.com
